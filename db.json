@@ -1,0 +1,58 @@
+{
+  "logs": [
+    {
+      "id": 2,
+      "message": "Workstation 3204 not posting",
+      "attention": true,
+      "date": "03-02-2019",
+      "tech": "John Doe"
+    },
+    {
+      "id": 3,
+      "message": "404:Error on workstation 330",
+      "attention": false,
+      "date": "03-02-2019",
+      "tech": "Jas Smith"
+    },
+    {
+      "id": 4,
+      "message": "404:Error on workstation 10000",
+      "attention": false,
+      "date": "03-02-2019",
+      "tech": "Jas Smith"
+    },
+    {
+      "message": "Changed network card on server 008",
+      "attention": true,
+      "tech": "Sara",
+      "date": "2021-09-05T11:57:40.636Z",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "message": "New issues in workstation 129",
+      "attention": true,
+      "tech": "Sara",
+      "date": "2021-09-05T17:57:13.602Z"
+    },
+    {
+      "message": "error 404 at work station 300",
+      "attention": true,
+      "tech": "Raj sharma",
+      "date": "2021-09-07T18:07:53.687Z",
+      "id": 7
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstname": "Shifa",
+      "lastname": "Shaikh"
+    },
+    {
+      "firstname": "Raj",
+      "lastname": "sharma",
+      "id": 2
+    }
+  ]
+}
